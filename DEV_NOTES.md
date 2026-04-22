@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-22
 - Cleaned up old debug logs
+
+## 2026-04-22
+- Reviewed codebase, identified areas for improvement
+- Noted known limitation in docs
