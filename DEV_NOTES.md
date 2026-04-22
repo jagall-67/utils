@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Verified API endpoint response schema
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-22
+- Cleaned up old debug logs
