@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Reviewed codebase, identified areas for improvement
 - Noted known limitation in docs
+
+## 2026-04-29
+- Improved log message formatting
+- Removed unused variable declarations
+- Added healthcheck endpoint stub
