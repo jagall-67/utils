@@ -23,3 +23,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Updated dependencies to latest stable versions
 - Checked for memory leaks in long-running path
+
+## 2026-04-29
+- Pinned dependency versions for reproducibility
