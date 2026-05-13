@@ -33,3 +33,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Reviewed codebase, identified areas for improvement
+
+## 2026-05-13
+- Added basic retry logic for network requests
+- Updated license year
+- Ran linter, applied auto-fixes
